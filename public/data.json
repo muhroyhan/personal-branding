@@ -1,0 +1,195 @@
+{
+  "firstname": "Muhammad",
+  "lastname": "Royhan",
+  "phone": "+6285157550160",
+  "email": "muhroyhan.developer@gmail.com",
+  "position": "Tech Lead",
+  "description": "With 6+ years of experience building scalable web and mobile applications using modern technologies like ReactJS, NodeJS, Flutter, and more. I lead teams to deliver exceptional digital solutions.",
+  "linkedin": "https://linkedin.com/in/muhammad-royhan-077830168",
+  "github": "https://github.com/muhroyhan",
+  "instagram": "https://instagram.com/muhroyhan",
+  "about": {
+    "title": "My Journey",
+    "paragraphs": [
+      "With over 6 years of experience in software development, I've evolved from a passionate developer to a seasoned team lead. My expertise spans across modern web technologies, mobile development, and enterprise solutions.",
+      "I specialize in JavaScript frameworks including ReactJS, NextJS, NodeJS, ExpressJS, Fastify, and NestJS. Additionally, I have extensive experience in mobile app development using Flutter for both Android and iOS platforms.",
+      "Throughout my career, I've successfully led teams in delivering complex projects including finance web applications, marketplace platforms, ERP systems, and payroll management solutions."
+    ]
+  },
+  "achivements": [
+    {
+      "icon": "Briefcase",
+      "title": "6+ Years",
+      "desc": "Professional Experience"
+    },
+    {
+      "icon": "Users",
+      "title": "Tech Lead",
+      "desc": "Leadership Role"
+    },
+    {
+      "icon": "Code",
+      "title": "50+ Projects",
+      "desc": "Successfully Delivered"
+    },
+    {
+      "icon": "Award",
+      "title": "Expert Level",
+      "desc": "Technical Expertise"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Frontend Development",
+      "color": "from-blue-500 to-cyan-500",
+      "tags": ["React.js", "Next.js", "TypeScript", "Tailwind CSS"]
+    },
+    {
+      "title": "Backend Development",
+      "color": "from-green-500 to-lime-500",
+      "tags": ["Node.js", "Express.js", "Fastify", "NestJS"]
+    },
+    {
+      "title": "Mobile Development",
+      "color": "from-purple-500 to-pink-500",
+      "tags": ["Flutter", "Dart", "Kotlin", "Swift"]
+    },
+    {
+      "title": "CI/CD",
+      "color": "from-orange-500 to-red-500",
+      "tags": ["Docker", "AWS", "Netlify", "Github Actions"]
+    },
+    {
+      "title": "Databases",
+      "color": "from-yellow-500 to-amber-500",
+      "tags": ["MySQL", "PostgreSQL", "MongoDB", "Firebase"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Marketplace system",
+      "categories": ["Web App", "Mobile App", "Admin Panel", "API Service"],
+      "description": "An Integrated Marketplace System for buying and selling products.",
+      "features": [
+        "User Authentication and Authorization",
+        "Product Listings and Search",
+        "Shopping Cart and Checkout",
+        "Secure Payment Gateway Integration",
+        "User Reviews and Ratings",
+        "Admin dashboard for managing products, orders, and users",
+        "Map integration for location-based services",
+        "Real-time chat between buyers and sellers"
+      ],
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS",
+        "MySQL",
+        "AWS Server",
+        "Flutter"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "website_url": "#",
+      "github_url": "#"
+    },
+    {
+      "name": "ERP system",
+      "categories": ["Admin Panel", "API Service"],
+      "description": "An Integrated ERP System for managing business processes.",
+      "features": [
+        "Inventory Management",
+        "Order Processing",
+        "Financial Management",
+        "Customer Relationship Management (CRM)",
+        "Reporting and Analytics"
+      ],
+      "technologies": ["ReactJS", "NodeJS", "ExpressJS", "MySQL", "AWS Server"],
+      "image_url": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
+      "website_url": "#",
+      "github_url": "#"
+    },
+    {
+      "name": "Rural Bank Admin Panel",
+      "categories": ["Admin Panel", "API Service"],
+      "description": "Admin panel for managing rural bank operations.",
+      "features": [
+        "Account Management",
+        "Transaction Processing",
+        "Loan Management",
+        "Reporting and Analytics"
+      ],
+      "technologies": ["ReactJS", "NodeJS", "ExpressJS", "MySQL", "AWS Server"],
+      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
+      "website_url": "#",
+      "github_url": "#"
+    },
+    {
+      "name": "Company Payroll System",
+      "categories": ["Admin Panel", "API Service"],
+      "description": "Admin panel for managing company payroll operations.",
+      "features": [
+        "Employee Management",
+        "Salary Processing",
+        "Tax Calculation",
+        "Payslip Generation",
+        "Leave Management",
+        "Cross System Collaboration",
+        "Fingerprint Attendance Integration"
+      ],
+      "technologies": ["ReactJS", "NodeJS", "NestJS", "MySQL", "AWS Server"],
+      "image_url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop",
+      "website_url": "https://payscape.teguherp.com",
+      "github_url": "#"
+    }
+  ],
+  "experiences": [
+    {
+      "position": "Junior Software Engineer",
+      "company": "Moving Bytes Digital Ltd.",
+      "start_date": "Jun 2019",
+      "end_date": "Jun 2020",
+      "location": "Surabaya, Indonesia (Full Time)",
+      "responsibilities": [
+        "Developed and maintained Web Application using ReactJS and API Service using ExpressJS",
+        "Involved in an ERP system project of a web-based paper company",
+        "Involved in a web-based rental marketplace project"
+      ]
+    },
+    {
+      "position": "Middle Software Engineer",
+      "company": "Moving Bytes Digital Ltd.",
+      "start_date": "Jul 2020",
+      "end_date": "Dec 2021",
+      "location": "Surabaya, Indonesia (Full Time)",
+      "responsibilities": [
+        "Responsible for maintaining the quality of the rental marketplace project",
+        "Developing a rental marketplace mobile app using Flutter"
+      ]
+    },
+    {
+      "position": "Senior Software Engineer",
+      "company": "Moving Bytes Digital Ltd.",
+      "start_date": "Jan 2022",
+      "end_date": "Dec 2022",
+      "location": "Surabaya, Indonesia (Full Time)",
+      "responsibilities": [
+        "Maintaining current projects",
+        "Developing new client projects",
+        "Responsible for project delivery and decision making"
+      ]
+    },
+    {
+      "position": "Tech Lead",
+      "company": "CV. Moving Bytes Indonesia",
+      "start_date": "Jan 2023",
+      "end_date": "Now",
+      "location": "Surabaya, Indonesia (Hybrid)",
+      "responsibilities": [
+        "Bigger responsibilities in project management",
+        "Responsible for mentoring junior developers",
+        "Maintaining a high standard of code quality",
+        "Participate in company decision making in terms of technology and project management"
+      ]
+    }
+  ]
+}
